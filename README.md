@@ -36,6 +36,6 @@ A simple, open-source Streamlit app that helps users evaluate how well their res
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/ats-score-checker.git
-cd ats-score-checker
+git clone [https://github.com/saifDoesCode/Resume-ATS-Calculator.git]
+cd resume_system.py
 pip install -r requirements.txt
