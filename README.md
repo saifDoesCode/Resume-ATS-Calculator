@@ -37,5 +37,5 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone [https://github.com/saifDoesCode/Resume-ATS-Calculator.git]
-cd resume_system.py
+cd streamlit_ATS_app/app.py
 pip install -r requirements.txt
